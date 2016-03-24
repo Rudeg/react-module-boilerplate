@@ -25,7 +25,7 @@
     "del": "^2.2.0",
     "es6-shim": "^0.35.0",
     "gulp": "^3.9.1",
-    "gulp-bump": "^1.0.0",
+    "gulp-bump": "^2.0.1",
     "gulp-connect": "^3.1.0",
     "gulp-git": "^1.7.0",
     "gulp-stylus": "^2.3.0",
