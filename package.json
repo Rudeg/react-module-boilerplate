@@ -1,6 +1,6 @@
 {
   "name": "react-module-boilerplate",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Boilerplate for the JS (ESnext) modules",
   "main": "dist/index.js",
   "scripts": {
@@ -47,5 +47,8 @@
     "js-boilerplate",
     "rollup-boilerplate",
     "es6-boilerplate"
-  ]
+  ],
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  }
 }
